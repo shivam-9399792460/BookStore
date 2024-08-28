@@ -1,0 +1,56 @@
+.contact-container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.contact-container h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.contact-container p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  line-height: 1.6;
+  color: black;
+}
+
+.contact-container ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.contact-container ul li {
+  margin-bottom: 10px;
+  color: black;
+}
+
+.contact-container h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+  color: black;
+}
+
+.social-media-list {
+  display: flex;
+  gap: 10px;
+}
+
+.social-media-list li {
+  list-style: none;
+}
+
+.social-media-list li a {
+  text-decoration: none;
+  color: #069e9e;
+  font-weight: bold;
+}
+
+.social-media-list li a:hover {
+  text-decoration: underline;
+}
